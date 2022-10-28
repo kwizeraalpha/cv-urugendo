@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+ <html lang="en" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+     <title>OPEN1</title>
+   </head>
+   <body>
+     <h1>Coll/Whatsapp</h1>
+     <h3>Tell:0788</h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNFgrJ_cMiRkwkbksU3uCtxO6V_uoD1xH9jlqeoNSdaZ8F6NEoaSiAFs87h-oA5WUY2g&usqp=CAU" alt="women bags">
+<img src="https://www.marshallshoes.co.uk/images/womens-bd3577g-black-tote-bag-p9392-26981_medium.jpg" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFcdul4Kjb38faugdMFZviVqjIJ4Hoe5wpDczl7FPutTMs3L2-dE7y_rqENI0D6oFL5Y&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWmWqwQig5kWI77ALg5ShVBRPVPdX7z20CA&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4Afh0pVs7uTcd-n2kOAw0C1i5ygF3QnHp854UTrIyY0VofAIqnrQQjP8sjA9fsJSiHE&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H30MzmH75rOxYakVFE3Lwjk1E5BKS27ZUw&usqp=CAU" alt="">
+<img src="https://rukminim1.flixcart.com/image/332/398/xif0q/hand-messenger-bag/7/g/h/handbag-for-women-and-girls-ladies-purse-5-5-beclina-b085wn8n61-original-imagg2wctufdtfta.jpeg?q=50" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoH0tb7LGtbDMFKJvZ-cVRDn3tiU86anQx6g&usqp=CAU" alt="">
+<img src="https://images.meesho.com/images/catalogs/33035455/collages/1/1/92f77d2d0c65abe99d20524f1a0c8eb7d77a701b5ff51a670ba94dda35e239a2b697a3aeb0e5cd8f366795800cfa8fd81feef98217c56296e86aed9c0b941571.jpg" alt="">
+<h1>COLL</h1>
+<h3>TELL:0788</h3>
+<form action="mailto:kwizeraalpha331@gmail.com" method="post"enctype="text/plain">
+  <label>date of day  </label>
+<input type="date" name="" value=""><br>
+<label>tell nmbr</label>
+<input type="text" name="tell"><br>
+<label> your adress</label>
+<input type="text" name="youradress"><br>
+<label>link of product</label><br>
+<textarea name="link of product" rows="12" cols="40"></textarea><br>
+<input type="submit" name="">
+
+</body>
+</html>

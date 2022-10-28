@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ENTER</title>
+  </head>
+  <body>
+  <h1>VIPA online shopping</h1>
+  <h3>COLL:0788</h3>
+  <h3>WHATSAPP:0788</h3>
+  <h3>EMAIL@gmail.com</h3>
+  <img src="https://i.pinimg.com/originals/c8/b8/74/c8b87416d28000ebe81b4efd2b9566a9.jpg" alt="">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NkAljVMsF9knXD2km8owFkm6AFE56HykEI3t8LLhXfV0yzmZ6apgIozN3ea6hyq-cVU&usqp=CAU" alt="">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzu0TM16K62HberGvUd--sN0I0n8Q0kewGtQ&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h0-ReH3RQHcdnkDawmxCNFZASVbupZhkIQ&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl4NBW6YmNKSE3OPQQo5Y2luz9PgpAiYM6MJXp7V9zfw_s3xLDQWvUyx94aG-W5QuH18&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTK64cIVV59I4jjdIsZ-nfac7megbEC5Md0uevPaV3EZr026YhsIW2u1VQSljYrptFT38&usqp=CAU" alt="">
+<img src="https://m.media-amazon.com/images/I/41MS5OWaYFL.jpg" alt="">
+<h1>VIPA online shopping</h1>
+<form action="mailto:kwizeraalpha331@gmail.com" method="post"enctype="text/plain">
+  <label>date of day  </label>
+<input type="date" name="" value=""><br>
+<label>tell nmbr</label>
+<input type="text" name="tellnmbr"><br>
+<label> your adress</label>
+<input type="text" name="youradress"><br>
+<label>link of product</label><br>
+<textarea name="linkofproduct" rows="12" cols="40"></textarea><br>
+<input type="submit" name="">
+
+<h3>COLL:0788</h3>
+<h3>WHATSAPP:0788</h3>

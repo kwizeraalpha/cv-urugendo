@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+ <html lang="en" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+     <title>contact me</title>
+   </head>
+   <body>
+<h1 My contact and adress></h1>
+<h3>TELL:+25078</h3>
+<h3>LOCATION: kabuga mark</h3>
+<h3>Email@gamil.com</h3>
+
+<form action="mailto:kwizeraalpha331@gmail.com" method="post"enctype="text/plain">
+  <label>date of day  </label>
+<input type="date" name="" value=""><br>
+<label>tell nmbr</label>
+<input type="text" name="tellnmbr"><br>
+<label> your address</label>
+<input type="text" name="youradress"><br>
+<label>link of product</label><br>
+<textarea name="link of product" rows="12" cols="40"></textarea><br>
+<input type="submit" name="">
+
+</form>
+ </body>
+ </html>

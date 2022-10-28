@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+ <html lang="en" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+     <title>OPEN3</title>
+   </head>
+   <body>
+<h1>VIPA online shopping</h1>
+<h3>TELL:0788</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGEPGUNGtAtPfWUZmkRYcLrkw3G1L-iLlDA&usqp=CAU
+" alt="">
+<img src="https://images.selfridges.com/is/image/selfridges/R03950433_BLACKLINBLACK_M?$PDP_RV_ALL$
+" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNMx5VgLqU8_croqg2-mkh04KQQJZN869JVkBsp9zFl1oHCfu3vTTf-ccXoiRugasdb0&usqp=CAU
+" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKUFddza7YiUjkRlEzxCqG8vYT5S3Vb5qqX5asDBEtHIQj_3Wj-bvdac1qC0DxMEycP80&usqp=CAU
+" alt="">
+<img src="https://m.media-amazon.com/images/I/71kJXFCiXFL._AC_SR255,340__FMwebp_.jpg" alt="">
+<img src="https://m.media-amazon.com/images/I/51H3flHor8L._AC_SR255,340__FMwebp_.jpg
+" alt="">
+<img src="https://m.media-amazon.com/images/I/615C0Al9rSL._AC_SR255,340__FMwebp_.jpg" alt="">
+<img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/15768660/2021/10/8/0a8762ef-c2a4-4564-84f2-d0cb1a4268ee1633670048122GibelleWomenPinkEmbellishedOpenToeFlatswithBows1.jpg" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLCzMxmbmkHk5W7hIsJ4_an7NsT2-YcqCPHSFwXk6GeobehrqNBcQVYZmYk0vyS6mHzw&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0chXHFNv2YhczTW9xOuEF66Lg5AjqTyFyD2UubThxIrCy-1MGLzwcOWIZyHp-PFK2j0s&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPs1F0eQX2LDsbxvkobVGNV8bldfLDWeBiLJgj3nL-3_Xkc25UrGNKd5faVfbu5Sv69s&usqp=CAU" alt="">
+<h1>VIPA online shopping</h1>
+<h3>TELL:0788</h3>
+<img src="https://m.media-amazon.com/images/I/81oe1iNMC0L._AC_SR255,340__FMwebp_.jpg" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8jOteiL3hYDbpcFi5tPVz4QvYNkliqy-tOympFuTYTCfgqYQFwWp2WLd2GyqQrPhB6g&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAk0Ke3F_B2oF6I6z_IhhwwB2S6E50Uz9mQ&usqp=CAU" alt="">
+<h3>FREE delivering in KIGALI</h3>
+<h1>COLL:0788</h1>
+<form action="mailto:kwizeraalpha331@gmail.com" method="post"enctype="text/plain">
+  <label>date of day  </label>
+<input type="date" name="" value=""><br>
+<label>tell tellnmbre</label>
+<input type="text" name="tell tellnmbr"><br>
+<label>your adress</label>
+<input type="text" name="youradess"><br>
+<label>link of product</label><br>
+<textarea name="linkofproduct" rows="12" cols="40"></textarea><br>
+<input type="submit" name="">
+<p>THANKS</p>
+</body>
+ </html>
